@@ -3,4 +3,4 @@ project(MyAwsomeProject C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(MyAwsomeProject main.c)
+add_executable(MyAwsomeProject main.c greetings.h greetings.c)
