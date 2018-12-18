@@ -6,3 +6,7 @@
 void helloWorldPT(){
     printf("Olá Mundo!\n");
 }
+
+void modification(){
+    printf("Bom natal ao pessoal de sec!\n");
+}

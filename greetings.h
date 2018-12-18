@@ -6,6 +6,6 @@
 #define MYAWSOMEPROJECT_GREETINGS_H
 
 void helloWorldPT();
-
+void modification();
 
 #endif //MYAWSOMEPROJECT_GREETINGS_H
